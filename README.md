@@ -1,1 +1,1 @@
-# merge-monster-playground
+This branch is meant only for testing that Merge Master process PRs only from master, i.e. it should ignore PRs in this branch.

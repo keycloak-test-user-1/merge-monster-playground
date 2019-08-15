@@ -1,2 +1,2 @@
-This file is use for testing conflicting PRs
+This file is use for testing conflicting PRsbbb
 maluisset ipsum liber neque appareat tristique eius reque laoreet suas nominavi explicari melius
